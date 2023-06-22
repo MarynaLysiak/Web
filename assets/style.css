@@ -1,0 +1,38 @@
+h1, h2 {
+    color: cornflowerblue;
+    margin-left: 45px;
+}
+
+p{
+    margin: 0;
+}
+.title{
+    color: cadetblue;
+    font-size: 45px;
+}
+.boxWrapper{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 40px;
+    width: 200px;
+    padding: 20px;
+}
+.list{
+    color: darkgreen;
+    font-size: 25px;
+    font-family: 'Robot';
+}
+.image{
+    margin-left: 45px;
+}
+button{
+    width: 250px;
+    height: 100px;
+}
+
+.active{
+    color: darkgray;
+}
+/* #el1 {
+    color: azure;
+} */
